@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Xam.Plugin.CrossVersionControl</name>
+    </assembly>
+    <members>
+        <member name="T:Xam.Plugin.CrossVersionControl.CheckVersion">
+            <summary>
+            Check versio plugin mais class
+            </summary>
+        </member>
+        <member name="M:Xam.Plugin.CrossVersionControl.CheckVersion.VerifyAndroid(System.String)">
+            <summary>
+            Make store current version verification
+            </summary>
+            <param name="appBandleId">Bandle Name for app package</param>
+            <returns>VerifyVersionResult</returns>
+        </member>
+        <member name="M:Xam.Plugin.CrossVersionControl.CheckVersion.VerifyIos(System.String)">
+            <summary>
+            Make store current version verification
+            </summary>
+            <param name="appBandleId">Bandle Name for app package</param>
+            <returns>VerifyVersionResult</returns>
+        </member>
+        <member name="T:Xam.Plugin.CrossVersionControl.VerifyVersionResult">
+            <summary>
+            Result of Version Verification on stores
+            </summary>
+        </member>
+        <member name="P:Xam.Plugin.CrossVersionControl.VerifyVersionResult.AppName">
+            <summary>
+            Store application public name
+            </summary>
+        </member>
+        <member name="P:Xam.Plugin.CrossVersionControl.VerifyVersionResult.StoreCurrentVersion">
+            <summary>
+            Store published current version
+            </summary>
+        </member>
+        <member name="P:Xam.Plugin.CrossVersionControl.VerifyVersionResult.VersioningType">
+            <summary>
+            Which version naming is used for control
+            </summary>
+        </member>
+        <member name="T:Xam.Plugin.CrossVersionControl.VersioningType">
+            <summary>
+            Enumerator for versioning naming type
+            </summary>
+        </member>
+        <member name="F:Xam.Plugin.CrossVersionControl.VersioningType.ByIncrementalNumber">
+            <summary>
+            Used incremental number for updates
+            </summary>
+        </member>
+        <member name="F:Xam.Plugin.CrossVersionControl.VersioningType.ByCodeName">
+            <summary>
+            Used names for version updates as Lollipop
+            </summary>
+        </member>
+    </members>
+</doc>

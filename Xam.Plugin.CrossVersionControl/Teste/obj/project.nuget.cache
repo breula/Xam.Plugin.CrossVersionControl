@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sghFkmr886ZueQcbgbVh2OKUaxmJo5F1vChWh53HmipRUORUhM/DE7xqmijBHbZ0dK2eLxw5DLl2KpxIVNVBAw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\NuPackages\\Xam.Plugin.CrossVersionControl\\Xam.Plugin.CrossVersionControl\\Teste\\Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

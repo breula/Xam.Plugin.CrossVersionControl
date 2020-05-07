@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qN6/lH7/ym7yzr2h7drwfy3q4EWc9/hSTxh4h3cGaEr5qqAbHyGof13TLNdOabRCLItRoPwHLWIuwRX6jNU3wg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\NuPackages\\Xam.Plugin.CrossVersionControl\\Xam.Plugin.CrossVersionControl\\Xam.Plugin.CrossVersionControl\\Xam.Plugin.CrossVersionControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
