@@ -1,2 +1,2 @@
 # Xam.Plugin.CrossVersionControl
- Plugin do get lastversion on Apple and Android Stores for Xamarin application
+ Plugin do check last version on Apple and Android Stores for Xamarin application
