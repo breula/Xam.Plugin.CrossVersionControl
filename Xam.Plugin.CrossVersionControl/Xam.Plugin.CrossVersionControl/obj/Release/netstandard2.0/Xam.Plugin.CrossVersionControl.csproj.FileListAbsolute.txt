@@ -1,0 +1,9 @@
+D:\Projects\NuPackages\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\bin\Release\netstandard2.0\Xam.Plugin.CrossVersionControl.deps.json
+D:\Projects\NuPackages\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\bin\Release\netstandard2.0\Xam.Plugin.CrossVersionControl.dll
+D:\Projects\NuPackages\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\bin\Release\netstandard2.0\Xam.Plugin.CrossVersionControl.pdb
+D:\Projects\NuPackages\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\obj\Release\netstandard2.0\Xam.Plugin.CrossVersionControl.csprojAssemblyReference.cache
+D:\Projects\NuPackages\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\obj\Release\netstandard2.0\Xam.Plugin.CrossVersionControl.csproj.CoreCompileInputs.cache
+D:\Projects\NuPackages\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\obj\Release\netstandard2.0\Xam.Plugin.CrossVersionControl.AssemblyInfoInputs.cache
+D:\Projects\NuPackages\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\obj\Release\netstandard2.0\Xam.Plugin.CrossVersionControl.AssemblyInfo.cs
+D:\Projects\NuPackages\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\obj\Release\netstandard2.0\Xam.Plugin.CrossVersionControl.dll
+D:\Projects\NuPackages\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\Xam.Plugin.CrossVersionControl\obj\Release\netstandard2.0\Xam.Plugin.CrossVersionControl.pdb

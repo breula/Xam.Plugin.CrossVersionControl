@@ -3,7 +3,9 @@ using Newtonsoft.Json.Converters;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.Net;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 
 namespace Xam.Plugin.CrossVersionControl
 {
@@ -254,7 +256,7 @@ namespace Xam.Plugin.CrossVersionControl
 
             string url = $"https://play.google.com/store/apps/details?id={appBandleId}&hl=en";
 
-            using (var webClient = new System.Net.WebClient())
+            using (var webClient = new WebClient())
             {
                 var donwloadedString = webClient.DownloadString(url);
                 var jsonString = donwloadedString;
@@ -297,7 +299,7 @@ namespace Xam.Plugin.CrossVersionControl
 
             string url = $"http://itunes.apple.com/lookup?bundleId={appBandleId}";
 
-            using (var webClient = new System.Net.WebClient())
+            using (var webClient = new WebClient())
             {
                 var donwloadedString = webClient.DownloadString(url);
 
