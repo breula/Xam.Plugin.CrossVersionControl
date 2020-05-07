@@ -41,7 +41,6 @@ if (platform == DevicePlatform.Android)
             if (installedVersion != verifyVersion.StoreCurrentVersion)
             {
                 needsUpdate = true;
-
             }
         }
         else
