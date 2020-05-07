@@ -56,7 +56,7 @@ if (needsUpdate)
 {
     var update = await Application.Current.MainPage.DisplayAlert(
         "Nova Versão", 
-        "Existe uma nova versão do seu Assist e é necessário atualizá-lo! Se escolher não o apicativo será encerrado.", 
+        "Existe uma nova versão do seu App e é necessário atualizá-lo! Se escolher não o apicativo será encerrado.", 
         "Sim", 
         "Não");
     if (update)
