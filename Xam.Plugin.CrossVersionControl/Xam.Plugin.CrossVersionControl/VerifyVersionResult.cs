@@ -6,6 +6,16 @@
     public class VerifyVersionResult
     {
         /// <summary>
+        /// Default Constructor
+        /// </summary>
+        public VerifyVersionResult()
+        {
+            AppName = "Not Found on Store";
+            StoreCurrentVersion = "0.0.0";
+            VersioningType = VersioningType.NotIdentified;
+        }
+
+        /// <summary>
         /// Store application public name
         /// </summary>
         public string AppName {get; set;}
@@ -33,6 +43,11 @@
         /// <summary>
         /// Used names for version updates as Lollipop
         /// </summary>
-        ByCodeName
+        ByCodeName,
+
+        /// <summary>
+        /// Occours when not found on store
+        /// </summary>
+        NotIdentified
     }
 }

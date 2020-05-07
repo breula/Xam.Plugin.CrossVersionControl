@@ -28,6 +28,11 @@
             Result of Version Verification on stores
             </summary>
         </member>
+        <member name="M:Xam.Plugin.CrossVersionControl.VerifyVersionResult.#ctor">
+            <summary>
+            Default Constructor
+            </summary>
+        </member>
         <member name="P:Xam.Plugin.CrossVersionControl.VerifyVersionResult.AppName">
             <summary>
             Store application public name
@@ -56,6 +61,11 @@
         <member name="F:Xam.Plugin.CrossVersionControl.VersioningType.ByCodeName">
             <summary>
             Used names for version updates as Lollipop
+            </summary>
+        </member>
+        <member name="F:Xam.Plugin.CrossVersionControl.VersioningType.NotIdentified">
+            <summary>
+            Occours when not found on store
             </summary>
         </member>
     </members>

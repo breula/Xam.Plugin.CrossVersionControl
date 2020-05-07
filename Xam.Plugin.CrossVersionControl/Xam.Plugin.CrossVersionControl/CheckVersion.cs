@@ -17,8 +17,9 @@ namespace Xam.Plugin.CrossVersionControl
         {
             return string.IsNullOrEmpty(valor) ? valor : string.Join("", Regex.Split(valor, @"[^\d]"));
         }
+        #endregion
 
-
+        #region-- Internal --
         internal class IosAppBundleData
         {
             [JsonProperty("resultCount")]
@@ -301,6 +302,11 @@ namespace Xam.Plugin.CrossVersionControl
                 var donwloadedString = webClient.DownloadString(url);
 
                 var data = JsonConvert.DeserializeObject<IosAppBundleData>(donwloadedString);
+
+                if (data.ResultCount == 0)
+                {
+
+                }
 
                 verification.AppName = data.Results[0].TrackName;
                 verification.StoreCurrentVersion = data.Results[0].Version;

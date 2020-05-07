@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Vitsoftol.OneSignal</id>
+    <version>1.0.2</version>
+    <authors>Marcio Viterbo</authors>
+    <owners>Vitsoftol SC Ltda ME</owners>
+	<license type="file">license.txt</license>
+    <projectUrl>https://vitsoftol.com.br</projectUrl>
+    <iconUrl>https://repository.vitsoftol.com.br/vitsoftol.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Make send Web Push Messages to your site or PWA applications easier.</description>
+    <releaseNotes>Incluída opção para o envio de imagens nas mensagems de Android.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>VitsoftOL, OneSignal, PWA, Push Messages, Web Browsers, Progressive Web Application, C#, Push Service</tags>
+    <dependencies>
+	  <dependency id="Newtonsoft.Json" version="12.0.1" />
+    </dependencies>
+  </metadata>
+  <files>
+	<file src="D:\Projects\NuPackages\OneSinal\lib\netcoreapp2.2\Vitsoftol.OneSignal.dll" target="lib\netcoreapp2.2\Vitsoftol.OneSignal.dll" />
+    <file src="D:\Projects\NuPackages\OneSinal\license.txt" target="license.txt" />
+  </files>
+</package>
